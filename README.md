@@ -6,7 +6,7 @@
 </a>
 
 <!-- GIF DE BIENVENIDA -->
-<img src="banner.gif" width="100%"> 
+<img src="banner1.gif" width="100%"> 
 
 <!-- GIF FLOTANTE A LA DERECHA (Reemplaza el src con tu link) -->
 <img align="right" width="200" src="URL_DEL_GIF_TRANSPARENTE_AQUI.gif">
