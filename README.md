@@ -1,7 +1,12 @@
 <!-- BANNER ANIMADO PRINCIPAL (Reemplaza el src con tu link) -->
-<img src="https://www.pinterest.com/pin/890657263776265386/" width="100%">
 
-# Hi! I'm Anthony 👋
+<!-- TÍTULO CON EFECTO DE TECLADO ANIMADO -->
+<a href="https://github.com/AnthonyE-VargasP">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=500&color=FFFFFF&width=450&lines=Hi%2C+user+%F0%9F%91%8B;I'm+Anthony+Vargas" alt="Typing Animation" />
+</a>
+
+<!-- GIF DE BIENVENIDA -->
+<img src="banner.gif" width="100%"> 
 
 <!-- GIF FLOTANTE A LA DERECHA (Reemplaza el src con tu link) -->
 <img align="right" width="200" src="URL_DEL_GIF_TRANSPARENTE_AQUI.gif">
