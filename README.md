@@ -56,5 +56,5 @@ I am a final-year Computer Engineering student at ITCR, passionate about buildin
 </p>
 
 ## 📫 Let's Connect
-* **LinkedIn:** [AQUÍ_VA_TU_LINK_DE_LINKEDIN]
+* **LinkedIn:** www.linkedin.com/in/anthonyevp
 * **Email:** anthonyevp04@gmail.com
